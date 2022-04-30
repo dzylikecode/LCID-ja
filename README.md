@@ -22,22 +22,22 @@
 
       - [日本村 外教网](https://www.ribencun.com/)
 
-  - 寓教于学, 也要在乎基础
+    - 寓教于学, 也要在乎基础
 
-    - [贯通日本--了解日本](http://www.kantsuu.com/)
+      - [贯通日本--了解日本](http://www.kantsuu.com/)
 
-      在中国了解日本全方位信息的门户网站
+        在中国了解日本全方位信息的门户网站
 
-    - [学习资料 - 咖啡日语](http://www.coffeejp.com/article/)
+      - [学习资料 - 咖啡日语](http://www.coffeejp.com/article/)
 
-    - [朝日日语论坛 - 日本论坛 - 猫眼看世界网](http://www.kantsuu.com/riben/14627.shtml)
+      - [朝日日语论坛 - 日本论坛 - 猫眼看世界网](http://www.kantsuu.com/riben/14627.shtml)
 
-      日语论坛，都是日语爱好者或是专业的人在这里谈论有关日语的东西。多多和他们交流会受益颇多
+        日语论坛，都是日语爱好者或是专业的人在这里谈论有关日语的东西。多多和他们交流会受益颇多
 
-    - [JP 日语学习网](http://www.jptranslate.com/)
+      - [JP 日语学习网](http://www.jptranslate.com/)
 
-    - [日搜 - JPSEEK.COM - 日本时尚潮流第一站](https://www.zhishao.com/read/3.htm)
+      - [日搜 - JPSEEK.COM - 日本时尚潮流第一站](https://www.zhishao.com/read/3.htm)
 
-  - 良好的书籍
+    - 良好的书籍
 
 - [资料](https://qiaxueedu.com/views/advert/activity.html?WECHAT_ID=qiaxue0527)
