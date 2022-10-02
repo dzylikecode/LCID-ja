@@ -41,3 +41,7 @@
     - 良好的书籍
 
 - [资料](https://qiaxueedu.com/views/advert/activity.html?WECHAT_ID=qiaxue0527)
+
+## resource
+
+- repo: [Janpanese Flash Card](https://github.com/notwaldorf/flash-cards)
