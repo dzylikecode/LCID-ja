@@ -45,3 +45,7 @@
 ## resource
 
 - repo: [Janpanese Flash Card](https://github.com/notwaldorf/flash-cards)
+- [Japanese Letters](https://www.nhk.or.jp/lesson/en/letters/hiragana.html)
+- [I WANT TO LEARN JAPANESE!](https://www.tofugu.com/learn-japanese/)
+- [Learn Japanese in 4 Hours - ALL the Japanese Basics You Need](https://youtu.be/8YV8KmfBbBM)
+- [tutorial website](https://www.japanesepod101.com/)
